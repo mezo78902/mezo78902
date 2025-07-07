@@ -14,11 +14,12 @@
 🗂 Git & GitHub
 🌐 JavaScript
 
-📌 Projects (Coming Soon)
+📌 Projects
 
-🤖 Simple AI & Python automation scripts
-🔗 n8n Workflows (API + Google Sheets + Automation)
+🤖 Simple AI & Python automation scripts  
+🔗 [Telegram Influencer Bot (n8n + Telegram + Google Sheets)](https://github.com/mezo78902/telegram-influencer-bot)  
 📊 Data cleanup and basic analysis
+
 
 📫 How to Reach Me
 
