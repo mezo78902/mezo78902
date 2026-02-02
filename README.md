@@ -1,7 +1,7 @@
 👋 Hey there! I'm Hamza
 
 🎓 AI Engineering Student at Mansoura University
-💻 I have experience with: Python, Java, some C, and n8n automation
+💻 I have experience with: Python, Java, C, and n8n automation
 🚀 Currently exploring topics in software development, automation, and open-source technologies
 🎯 Always looking for opportunities to grow, collaborate, and contribute to real-world projects
 
