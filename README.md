@@ -1,24 +1,27 @@
-👋 Hey there! I'm Hamza
+👋 Hey there! I'm Hamza  
 
-🎓 AI Engineering Student at Mansoura University
-💻 I have experience with: Python, Java, C, and n8n automation
-🚀 Currently exploring topics in software development, automation, and open-source technologies
-🎯 Always looking for opportunities to grow, collaborate, and contribute to real-world projects
+🎓 AI Engineering student at Mansoura University, interested in **Python-based automation, AI-powered workflows, and open-source software**.  
 
-💼 Technical Skills
+💡 I enjoy building practical systems that combine **Python, APIs, and automation tools (like n8n)** to solve real-world problems, and I’m actively preparing to contribute to open-source projects and apply to **Google Summer of Code (GSoC)**.
 
-🐍 Python (Scripting, Automation, REST APIs)
-🧠 AI Basics (ML, Data Classification)
-🔁 n8n Workflow Automation
-☁️ API Integration
-🗂 Git & GitHub
-🌐 JavaScript
+🧰 Technical Skills
 
-📌 Projects
+- **Programming:** Python, Java, C
+- **Automation & Integration:** n8n, REST APIs, Webhooks
+- **AI & Data:** AI Basics (ML, Data Classification), Data Cleaning
+- **Tools:** Git, GitHub, JavaScript
 
-🤖 Simple AI & Python automation scripts  
-🔗 [Telegram Influencer Bot (n8n + Telegram + Google Sheets)](https://github.com/mezo78902/telegram-influencer-bot)  
-📊 Data cleanup and basic analysis
+
+🚀 Projects
+
+📄 **AI-Driven Invoice Processing Pipeline**  
+End-to-end automation system for processing invoices and business documents using Python, LLMs, and n8n.
+
+- Built LLM-powered document analysis pipelines to extract structured JSON data from unstructured invoices.
+- Implemented prompt engineering techniques and strict JSON schemas to ensure reliable, machine-readable outputs.
+- Automated data validation, transformation, and cleanup to improve data consistency.
+- Integrated REST APIs, Google Sheets, and backend data sources (SQL) within automation workflows.
+- Orchestrated the full pipeline using n8n, with Python handling core logic and processing.
 
 
 📫 How to Reach Me
